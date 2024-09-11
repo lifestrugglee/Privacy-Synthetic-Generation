@@ -26,8 +26,8 @@ In this work, we presents a novel method that enhances data privacy and interope
 
 #### 1. Data preparation
 * The data used is from the MIMIC-III Clinical Database and is available under PhysioNet. Access to the data can be requested from PhysioNet. 
-* The data preprocessing steps can be found at [GenerateEHRs](#https://github.com/mominbuet/GenerateEHRs).
-* ***Caution***: The GPT models' API utilized in this work is the HIPAA-compliant Azure OpenAI platform provided by UTHealth to ensure compliance with the data usage agreement requirements of MIMIC-III. More details could be found on the [PhysioNet annoucement](#https://physionet.org/news/post/gpt-responsible-use).
+* The data preprocessing steps can be found at [GenerateEHRs](https://github.com/mominbuet/GenerateEHRs).
+* ***Caution***: The GPT models' API utilized in this work is the HIPAA-compliant Azure OpenAI platform provided by UTHealth to ensure compliance with the data usage agreement requirements of MIMIC-III. More details could be found on the [PhysioNet annoucement](https://physionet.org/news/post/gpt-responsible-use).
 
 #### 2. Python package
 - Keyword extraction: 
