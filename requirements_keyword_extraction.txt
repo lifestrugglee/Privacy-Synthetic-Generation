@@ -1,0 +1,4 @@
+git+https://github.com/boudinfl/pke.git
+fuzzywuzzy
+python-Levenshtein
+git+https://github.com/LIAAD/yake

@@ -21,7 +21,6 @@ In this work, we presents a novel method that enhances data privacy and interope
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -31,7 +30,9 @@ In this work, we presents a novel method that enhances data privacy and interope
 * ***Caution***: The GPT models' API utilized in this work is the HIPAA-compliant Azure OpenAI platform provided by UTHealth to ensure compliance with the data usage agreement requirements of MIMIC-III. More details could be found on the [PhysioNet annoucement](#https://physionet.org/news/post/gpt-responsible-use).
 
 #### 2. Python package
-
+- Keyword extraction: 
+`pip install requirements_keyword_extraction.txt`
+- 
 
 ## Usage
 
