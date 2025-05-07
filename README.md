@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://github.com/lifestrugglee/Privacy-Synthetic-Generation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lifestrugglee/Privacy-Synthetic-Generation"></a>
   <a href="https://arxiv.org/abs/2407.16166"><img src="https://img.shields.io/badge/ARXIV-2407.16166-red"></a>
+  <a href="https://academic.oup.com/jamia/article-abstract/32/5/885/8088353"><img src="https://img.shields.io/badge/JAMIA-2025-blue"></a>
+  
 </p>
 
 ## Description
