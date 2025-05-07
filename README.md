@@ -40,10 +40,16 @@ In this work, we presents a novel method that enhances data privacy and interope
 
 1. Data Preparation
 
-## Contributing
-
-Guidelines on how to contribute to the project.
-
-## License
-
-Information about the project's license.
+## Cite
+```bibtex
+@article{chuang2025robust,
+  title={Robust privacy amidst innovation with large language models through a critical assessment of the risks},
+  author={Chuang, Yao-Shun and Sarkar, Atiquer Rahman and Hsu, Yu-Chun and Mohammed, Noman and Jiang, Xiaoqian},
+  journal={Journal of the American Medical Informatics Association},
+  volume={32},
+  number={5},
+  pages={885--892},
+  year={2025},
+  publisher={Oxford University Press}
+}
+```
