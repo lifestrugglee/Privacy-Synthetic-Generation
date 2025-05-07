@@ -34,7 +34,21 @@ In this work, we presents a novel method that enhances data privacy and interope
 #### 2. Python package
 - Keyword extraction: 
 `pip install requirements_keyword_extraction.txt`
-- 
+
+#### 3. Workflow
+1. Re-id
+2. Txt preprocessing
+    2.1 txt normalization
+    2.2 keyword extraction
+3. Txt generation
+    3.1 One-shot (Normalized one-shot)
+    3.2 Keyword generation
+4. Evaluation
+    4.1 Privacy analysis
+    4.2 Utility evaulation
+        * Coding classification
+        * ROGUE
+        * COS-SIM
 
 ## Usage
 
