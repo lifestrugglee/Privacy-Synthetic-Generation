@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lifestrugglee/Privacy-Synthetic-Generation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lifestrugglee/Privacy-Synthetic-Generation"></a>
-  <a href="https://arxiv.org/abs/2407.16166"><img src="https://img.shields.io/badge/arXiv-2408.08435-b31b1b.svg?logo=arxiv&style=for-the-badge"></a>
+  <a href="https://arxiv.org/abs/2407.16166"><img src="https://img.shields.io/badge/ARXIV-2407.16166-red"></a>
 </p>
 
 ## Description
