@@ -36,26 +36,22 @@ In this work, we presents a novel method that enhances data privacy and interope
 `pip install requirements_keyword_extraction.txt`
 
 #### 3. Workflow
-project_root/
-├── reid/                   # Modules for Re-identification
-│   └── reid_model.py
-├── preprocessing/          # Text preprocessing steps
-│   ├── normalization.py
-│   └── keyword_extraction.py
-├── generation/             # Text generation modules
-│   ├── one_shot.py
-│   └── keyword_generator.py
-├── evaluation/             # Evaluation scripts
-│   ├── privacy_analysis.py
-│   ├── utility/
-│   │   ├── coding_classification.py
-│   │   ├── rouge.py
-│   │   └── cos_sim.py
-├── utils/                  # Utility functions
-│   └── helpers.py
-├── main.py                 # Main entry point
-└── README.md               # Project documentation
-
+```bash
+Pipeline/
+├── 1_data_reidentification/
+│   └── data_reidentification.py
+├── 2_txt_preprocessing/          
+│   ├── 2.1_data_preprocessing.py
+│   └── 2.1_data_preprocessing_10fold.py
+├── 3_txt_generation/             
+│   ├── keyword_generation_AzureOpenAI.py
+│   ├── keyword_generation_Transformers.py
+│   ├── oneshot_generation_AzureOpenAI.py
+│   └── oneshot_generation_Transformers.py
+├── 4.1_privacy_analysis/             
+├── 4.2_evaluation/
+└── README.md         
+```
 
 ## Usage
 
