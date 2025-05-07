@@ -22,7 +22,7 @@ In this work, we presents a novel method that enhances data privacy and interope
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Cite](#cite)
 
 ## Installation
 
