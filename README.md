@@ -1,7 +1,7 @@
 # Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks
 
 <p align="center">
-  <a href="https://github.com/lifestrugglee/Privacy-Synthetic-Generation/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+  <a href="https://github.com/lifestrugglee/Privacy-Synthetic-Generation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lifestrugglee/Privacy-Synthetic-Generation"></a>
   <a href="https://arxiv.org/abs/2407.16166"><img src="https://img.shields.io/badge/arXiv-2408.08435-b31b1b.svg?logo=arxiv&style=for-the-badge"></a>
 </p>
 
